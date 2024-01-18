@@ -5,11 +5,11 @@ I implemented a basic Support Vector Machine (SVM) model to tackle this classifi
 
 # Dependencies
 I used the following Python libraries:
-pandas
-numpy
-scikit-learn
-seaborn
-matplotlib
+* pandas
+* numpy
+* scikit-learn
+* seaborn
+* matplotlib
 
 # Results
 The SVM model achieved an accuracy of 77.511%. The submission file is also available.
