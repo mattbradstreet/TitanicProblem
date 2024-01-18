@@ -1,7 +1,7 @@
 # Overview
 This repository contains my solution to the Titanic Machine Learning Kaggle problem, where the goal is to predict whether a passenger survived or not based on various features. 
 
-I implemented a basic Support Vector Machine (SVM) model to tackle this classification task, achieving an accuracy of 77.511%.
+I implemented a basic Linear SVC, Decision Tree, KNearest Neighbour and Random Forest Classification models to tackle this classification task, achieving a peak accuracy of 77.511%.
 
 # Dependencies
 I used the following Python libraries:
@@ -12,4 +12,4 @@ I used the following Python libraries:
 * matplotlib
 
 # Results
-The SVM model achieved an accuracy of 77.511%. The submission file is also available.
+The SVM and RFC models achieved an accuracy of 77.511%. The submission file is also available.
